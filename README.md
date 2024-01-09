@@ -86,3 +86,8 @@ Formats examples :
 ### 6. Tone
 Specify the tone of the result : 
 With enthusiasm, pessimisstic, formal, casual. 
+
+
+## Check these lists of prompts
+- [Productivity](/productivity/README.md)
+- [Social media](/socialMedia/README.md)
