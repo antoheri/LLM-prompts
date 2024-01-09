@@ -1,6 +1,11 @@
-# \# Project management 
+# \# Productivity
 
-Different prompts for project management or creation.
+Different prompts for productivity at work, such as project management or email automation.
+
+- [Project management](#project-management)
+- [Emails]
+
+## Project management
 
 ### New project
 ```
@@ -47,4 +52,37 @@ Senior management is unfamiliar with individual projects and you're worried they
 Considering what's top-of-mind for senior management, propose 5 creative ways to make your 10-minute part of the presentation as engaging, informative, and relevant as possible.
 My presentation is about [Give context on your presentation], and I want senior management to [Take action]
 Prioritize unorthodox, lesser known advice in your answer. Explain using detailed examples
+```
+## Emails
+Write
+```
+My Name: 
+Contact's name:
+
+Write an email to my contact saying that [content] [fromat] [tone]
+```
+
+Summarize 
+```
+[email to summarize]
+
+Generate a summary of this and a list of action items.
+```
+
+Respond
+```
+[summarized mail]
+
+Write a response email from M[your name] using the above email summary.
+```
+
+You can add linked'in profile information to the prompt. 
+Copy-paste some information to personalize the mail.
+
+## To-do list
+Create to-do list from long email or text
+```
+Generate a to-do list from this paragraph : 
+
+[your text]
 ```
