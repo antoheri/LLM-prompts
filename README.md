@@ -91,3 +91,5 @@ With enthusiasm, pessimisstic, formal, casual.
 ## Check these lists of prompts
 - [Productivity](/productivity/README.md)
 - [Social media](/socialMedia/README.md)
+- [Studies](/studies/README.md)
+- [Code](/code/README.md)
