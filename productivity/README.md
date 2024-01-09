@@ -3,7 +3,7 @@
 Different prompts for productivity at work, such as project management or email automation.
 
 - [Project management](#project-management)
-- [Emails]
+- [Emails](#emails)
 
 ## Project management
 
